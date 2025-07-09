@@ -91,8 +91,8 @@ Add a background scheduler to periodically track and compare prices
 Author
 
 Madhu Arruri
-JNTUH UCEH Hyderabad
-Graduation Year: 2025
+JNTUH UCESTH Hyderabad
+Graduation Year: 2026
 Contact: madhu@email.com
 
 Like This Project?
