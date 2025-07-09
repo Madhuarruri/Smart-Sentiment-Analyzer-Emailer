@@ -52,42 +52,6 @@ python app.py
 Open your browser and go to
 http://127.0.0.1:5000/
 
-How to Deploy on Render
-
-Push the code to your GitHub repository
-
-Go to https://render.com and create a new Web Service
-
-Connect your GitHub repo
-
-Set:
-Build command: pip install -r requirements.txt
-Start command: gunicorn app:app
-
-Add Environment Variables:
-EMAIL_USER = your Gmail address
-EMAIL_PASS = your Gmail app password
-
-Click Deploy and access your live app
-
-Gmail Setup for Email Notifications
-
-Use Gmail App Passwords (ensure 2-factor authentication is enabled)
-
-Add EMAIL_USER and EMAIL_PASS in Render's environment settings securely
-
-These credentials are used in Python to send emails via smtplib
-
-Future Scope
-
-Add an AI-based review summarizer
-
-Detect and highlight fake or bot reviews
-
-Enable scraping for other platforms like Flipkart or Snapdeal
-
-Add a background scheduler to periodically track and compare prices
-
 Author
 
 Madhu Arruri
