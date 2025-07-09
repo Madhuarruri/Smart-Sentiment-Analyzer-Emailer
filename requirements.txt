@@ -4,3 +4,4 @@ beautifulsoup4
 textblob
 gunicorn
 matplotlib
+sklearn
